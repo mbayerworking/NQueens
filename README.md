@@ -1,0 +1,2 @@
+# NQueens
+DailyProgramming NQueens inplementation
